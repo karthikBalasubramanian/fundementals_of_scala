@@ -1,7 +1,7 @@
-target
-*.class
-*.iml
-*.ipr
-*.iws
-.idea
-out
+*/target
+     *.class
+     *.iml
+     *.ipr
+     *.iws
+     */.idea
+     */out
